@@ -16,8 +16,7 @@ don't like camera & mic but want to start live coding on youtube
 
 [![linkedin][linkedin]][linkedin-link] [![][spacing-connect]][no-click]
 [![youtube][youtube]][youtube-link] [![][spacing-connect]][no-click]
-[![twitter][twitter]][twitter-link] [![][spacing-connect]][no-click]
-[![instagram][instagram]][instagram-link]
+[![twitter][twitter]][twitter-link]
 
 <!--  -->
 
@@ -32,11 +31,9 @@ don't like camera & mic but want to start live coding on youtube
 [twitter-link]:
 	https://twitter.com/MrJadeja_in
 	"X formarly Twitter (MrJadeja_in)"
-[instagram-link]: https://instagram.com/mrjadeja.in "Instagram (mrjadeja.in)"
 
 <!--  -->
 
 [linkedin]: ./icons/linkedin.svg
 [youtube]: ./icons/youtube.svg
 [twitter]: ./icons/twitter.svg
-[instagram]: ./icons/instagram.svg
