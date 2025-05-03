@@ -1,8 +1,8 @@
 # MrJadeja
 
 नमस्ते _(Namaste)_, My name is **Pradipsinh Jadeja** and I'm from India 🇮🇳.
-<br /> An experienced Javascript full-stack engineer, with a knack for crafting
-digital wonders. <br />
+<br /> An experienced Javascript Engineer, with a knack for crafting digital
+wonders. <br />
 
 🌱&nbsp; **Learning:** Passionate about Advanced Web Engineering and Optimal
 System Design <br /> 👨🏻‍💻&nbsp; **Building:** A one-person
@@ -17,7 +17,6 @@ don't like camera & mic but want to start live coding on youtube
 [![linkedin][linkedin]][linkedin-link] [![][spacing-connect]][no-click]
 [![youtube][youtube]][youtube-link] [![][spacing-connect]][no-click]
 [![twitter][twitter]][twitter-link] [![][spacing-connect]][no-click]
-[![medium][medium]][medium-link] [![][spacing-connect]][no-click]
 [![whatsapp][whatsapp]][whatsapp-link] [![][spacing-connect]][no-click]
 
 <!--  -->
@@ -33,7 +32,6 @@ don't like camera & mic but want to start live coding on youtube
 [twitter-link]:
 	https://twitter.com/MrJadeja_in
 	"X formarly Twitter (MrJadeja_in)"
-[medium-link]: https://mrjadeja.medium.com "Medium (@mrjadeja)"
 [whatsapp-link]:
 	https://whatsapp.com/channel/0029VaIvHK14IBhKfvOKvn29
 	"Whatsapp group"
@@ -43,5 +41,4 @@ don't like camera & mic but want to start live coding on youtube
 [linkedin]: ./icons/linkedin.svg
 [youtube]: ./icons/youtube.svg
 [twitter]: ./icons/twitter.svg
-[medium]: ./icons/medium.svg
 [whatsapp]: ./icons/whatsapp.svg
